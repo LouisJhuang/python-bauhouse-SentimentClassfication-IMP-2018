@@ -10,10 +10,10 @@ Using CNN LSTM &amp; Fasttext to sentiment classification
 ```
 pip install pyfasttext
 pip install fasttext
-
+pip install pandas
 ```
 
-## You will need
+You will need
 * Python version 2.7 or >=3.4
 * NumPy & SciPy
 * pybind11
