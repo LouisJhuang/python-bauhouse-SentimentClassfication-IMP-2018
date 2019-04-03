@@ -25,7 +25,7 @@ Install fasttext you will need
 * NumPy & SciPy
 * pybind11
 
-# Can`t Install pyfasttext
+# Can`t install pyfasttext
 ###
 ```
 pip install --upgrade setuptools
