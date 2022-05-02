@@ -6,13 +6,13 @@
 
 
 
-# Resources
+## Resources
 ###
 Models
 * Supervised models [pre-trained supervised models](https://fasttext.cc/docs/en/supervised-models.html).
 
 
-# Installation
+## Installation
 ###
 ```
 pip install pyfasttext
@@ -25,7 +25,7 @@ Install fasttext you will need
 * NumPy & SciPy
 * pybind11
 
-# If can`t install pyfasttext
+## If can`t install pyfasttext
 try below
 ###
 ```
